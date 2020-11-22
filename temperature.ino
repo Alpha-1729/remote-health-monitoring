@@ -6,12 +6,12 @@
  
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "anditsallbecause";
+char auth[] = "####################";
  
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "hotspotname";
-char pass[] = "password";
+char pass[] = "#############";
 #define sensorPin  A0
 BlynkTimer timer;
  
